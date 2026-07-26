@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [NBA Player Predictions](github.com/alexvoneida/NBA_Player_Predictions)
-
 - 📫 How to reach me **alexvoneida@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
